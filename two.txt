@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 two way
+=======
+two on my same.
+>>>>>>> main
+
+look so heavy
